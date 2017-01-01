@@ -1,0 +1,84 @@
+{
+    "categories": [{
+                   "category_id": "261",
+                   "category_name": "Trees",
+                   "category_thumbnail": "261.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip02/master/",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Walnut Tree",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Spring Tree",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Autumn Tree",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Old Oak",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Baobab",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Acacia",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Linden",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Palm",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Oak-Tree",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Orange Tree",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Birch",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Apple Tree",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Spruce",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Sakura",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Maple",
+                              "anime_step":7
+                              }
+                              ]
+                   }]
+}
