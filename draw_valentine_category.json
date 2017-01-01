@@ -4,6 +4,7 @@
                    "category_name": "Valentines",
                    "category_thumbnail": "251.png",
                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip02/master/",
+                   "file_extension": "png",
                    "animes": [{
                               "anime_id": "1",
                               "anime_name": "Heart Tattoo",
